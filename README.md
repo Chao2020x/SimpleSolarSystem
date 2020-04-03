@@ -34,5 +34,8 @@
 
 - [计算机图形学OPENGL--阿西拜](https://www.bilibili.com/video/av57654623)
 
-![微型太阳系图](img/3.png)
-![微型太阳系图](img/1.png)
+## 图片展示
+
+![微型太阳系图](img/t3.png)
+
+![微型太阳系图](img/t1.png)
